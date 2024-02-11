@@ -1,5 +1,6 @@
 # Credit_Card_Fraud_Detector
-![image](https://github.com/thabonzimande/Credit_Card_Fraud_Detector/assets/131514260/13bc2131-004c-46f0-8e42-42c02980022d)
+![image](https://github.com/thabonzimande/Credit_Card_Fraud_Detector/assets/131514260/7e1b886f-26a0-43a4-9a56-b05a70a279e8)
+
 
 
 Fraudulent transactions as a result of compromised credit cards and phishing attacks on merchant terminals pose a great challenge for businesses, payment providers and consumers. With the increasing number of card transactions, it is almost impossible for financial institutions to check and detect fraudulent transactions manually. Hence, payment providers are increasingly relying on machine learning techniques and models to screen through the vast amount of transactions and flag suspicious transactions for further investigations by humans.
